@@ -1,6 +1,6 @@
 @Library('jenkins-shared-library') _
 
-javaPipeline(
+pipelineTemplate(
 
     repo: 'https://github.com/toka863/petclinic-service-b.git',
 
